@@ -1,6 +1,6 @@
 
 /**
- *  Descripción del estudiante
+ *  git con consola de comandos
  * 
  * @author - Montse 
  *  
